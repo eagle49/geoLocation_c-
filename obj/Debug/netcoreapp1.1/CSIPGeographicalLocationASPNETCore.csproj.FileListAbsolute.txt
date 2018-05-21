@@ -1,0 +1,11 @@
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\bin\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.deps.json
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\bin\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.runtimeconfig.json
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\bin\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.runtimeconfig.dev.json
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\bin\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.dll
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\bin\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.pdb
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\obj\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.csprojAssemblyReference.cache
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\obj\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.csproj.CoreCompileInputs.cache
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\obj\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.AssemblyInfoInputs.cache
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\obj\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.AssemblyInfo.cs
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\obj\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.dll
+C:\Users\LionKing\Desktop\How to get geographical location by IP address in ASP.NET Core\C#\CSIPGeographicalLocationASPNETCore\obj\Debug\netcoreapp1.1\CSIPGeographicalLocationASPNETCore.pdb
